@@ -33,7 +33,7 @@ const timeline = [
     period: 'SIH 2023',
     icon: <Trophy size={18} />,
     title: 'Smart India Hackathon — Top 30',
-    org: '480+ Teams Nationwide',
+    org: '480+ Teams at University Level',
     desc: 'Ranked Top 30 out of 480+ competing teams. Built a real-world solution under pressure with a cross-functional team.',
     tag: 'Top 30 / 480+',
     tagColor: 'amber',
