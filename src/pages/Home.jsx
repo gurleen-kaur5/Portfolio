@@ -271,7 +271,7 @@ export default function Home() {
       transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
     >
       <img
-        src="/gurleen_photo.jpeg"
+        src="/gurleen_kaur.jpeg"
         alt="Gurleen Kaur"
         className="about-image"
       />
